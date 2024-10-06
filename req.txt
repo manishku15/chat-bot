@@ -1,0 +1,5 @@
+transformers
+langchain_core
+langchain_community
+fastapi 
+uvicorn 
